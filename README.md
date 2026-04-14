@@ -44,3 +44,5 @@ https://hub.docker.com/r/faori/mongo-blog
 ## Preuve de fonctionnement
 
 ![Preuve de fonctionnement](Preuve%20de%20fonctionnement.png)
+
+![Preuve du script](Preuve%20Script.png)
