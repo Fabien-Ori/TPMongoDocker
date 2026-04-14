@@ -37,3 +37,10 @@ docker exec mon-blog-mongo mongosh --authenticationDatabase admin -u admin -p pa
 docker rm -f mon-blog-mongo
 
 ```
+## Lien DockerHub
+
+https://hub.docker.com/r/faori/mongo-blog
+
+## Preuve de fonctionnement
+
+![Preuve de fonctionnement](Preuve%20de%20fonctionnement.png)
